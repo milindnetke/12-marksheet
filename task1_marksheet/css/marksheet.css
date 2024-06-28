@@ -1,0 +1,164 @@
+<style type="text/css">
+		.img img{
+			height: 6rem;
+			padding: 1rem;
+		}
+		.marksheet{
+			background-image: linear-gradient(to right,#dbedf7, lightpink, #dbedf7);
+			height: 58rem;
+			width: 45rem;
+			margin-left: 20rem;
+		}
+		.heading h3{
+			margin-top: -7rem;
+			margin-left: 8rem;
+			font-size: 1.3rem;
+		}
+		.h1 h3{
+			text-align: center;
+			font-family: 'Allura', cursive;
+			font-size: 1.4rem;
+			margin-top: -1.2rem;
+		}
+		.h2 h3{
+			text-align: center;
+			font-family: 'Allura', cursive;
+			font-size: 1.4rem;
+			margin-top: -1.3rem;
+			margin-left: 3rem;
+		}
+		.h3 h4{
+			text-align: center;
+			font-size: 1.5rem;
+			word-spacing: 4px;
+			margin-top: -0.5rem;
+
+		}
+		.h3 .school{
+			text-align: center;
+			font-size: 1.2rem;
+			word-spacing: 4px;
+			margin-top: -1.5rem;
+		}
+		.msbshse{
+			background: #a27409;
+			color: white;
+			font-size: 0.5rem;
+			text-align: center;
+			width: 30rem;
+			margin-left:7.5rem;
+			margin-top: -1rem;
+		}
+		.main p{
+			font-size: 0.9rem;
+			margin-left: 2rem;
+		}
+		.main .name{
+			margin-left: 12rem;
+			margin-top: -0.9rem;
+			word-spacing: 5px;
+		}
+		.table table{
+			width: 43rem;
+			margin-left: 1rem;
+		}
+		.table table, th, td {
+  			border: 1px solid black;
+  			border-collapse: collapse;
+  			font-size: 0.8rem
+
+		}
+		.table th, td {
+ 			padding: 1px;
+  			text-align: center;    
+		}
+		/* .table table th{
+			border: 1px solid black;
+			border-left: none;
+		} */
+		.table th{
+			background: seagreen;
+			opacity: 0.9;
+		}
+		.table table td{
+			padding: 8px;
+			background-image: linear-gradient(to top, lightgreen,#dfc1c7 )
+		}
+		.p1 p{
+			margin-left: 1rem;
+			word-spacing: 0.3rem;
+			font-size: 1rem;
+		}
+		.p1 .p2{
+			margin-top: -0.5rem;
+			word-spacing: 0.2rem;
+			font-size: 1rem;
+		}
+		.p1 .p3{
+			margin-left: 35rem;
+			margin-top: -3rem;
+			font-size: 0.9rem;
+		}
+		.p4 p{
+			margin-left: 14rem;
+			padding-top: 10px;
+		}
+		.p4 .p04{
+			margin-left: 1rem;
+		}
+		.p4 .p-4{
+			margin-top: -2.9rem;
+			font-size: 1.1rem;
+		}
+		.table2 table{
+			width: 43rem;
+			margin-left: 1rem;
+		}
+		.table2 table, th, td {
+  			border: 1px solid black;
+  			border-collapse: collapse;
+  			font-size: 0.8rem
+
+		}
+		.table2 table tr th{
+			background: khaki;
+		}
+		.table2 table tr td{
+			background: lavender;
+		}
+		.table2 th, td {
+ 			padding: 1px;
+  			text-align: center;    
+		}
+		.code{
+			margin-left: 1rem;
+		}
+		.code p{
+			font-size: 1.6rem;
+			margin-top: 0.5rem;
+		}
+		.code .code2{
+			margin-left: 36rem;
+			margin-top: -3.5rem;
+			font-size: 1rem;
+		}
+		.code .city{
+			font-size: 0.8rem;
+			word-spacing: 1rem;
+			margin-left: 1rem;
+		}
+		.img2 img{
+			height: 5rem;
+			margin-left: 18rem;
+			margin-top: -4rem;
+		}
+		.sine img{
+			height: 5rem;
+			margin-left: 34rem;
+			margin-top: -4rem;
+		}
+		.sine .sine2{
+			margin-left: 30rem;
+			margin-top: -1rem;
+		}
+	</style>
